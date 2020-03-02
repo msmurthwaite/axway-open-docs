@@ -19,6 +19,10 @@ _Estimated reading time: 5 minutes_
 
 Learn how to set up an OAuth front-end security policy on an API proxy.
 
+## Martin's new section
+
+New text added for the workshop.
+
 ### Add OAuth security to an API proxy
 
 Follow these steps to require an OAuth policy on an API proxy:
