@@ -9,6 +9,8 @@ description: Prerequisites and steps you must follow to set up your Docker envir
 
 Your system must meet the following prerequisites before you can run the scripts to build and deploy API Gateway in Docker containers.
 
+Martin's contribution: New sentence added here!
+
 ### Set up your Docker environment
 
 You must have the following installed on your local system:
@@ -103,8 +105,7 @@ If you are using any external data stores, such as Apache Cassandra for API Mana
 
 ### Start Apache Cassandra
 
-Deploying a Cassandra container is only recommended for development environments. In a production environment, you must configure Cassandra for high availability (HA) as detailed in
-[Configure a Cassandra HA cluster](/docs/cass_admin/cassandra_config/).
+Deploying a Cassandra container is only recommended for development environments. In a production environment, you must configure Cassandra for high availability (HA) as detailed in [Configure a Cassandra HA cluster](/docs/cass_admin/cassandra_config/).
 
 For details on starting Apache Cassandra in a Docker container, see [Docker](https://hub.docker.com/_/cassandra) documentation.
 
